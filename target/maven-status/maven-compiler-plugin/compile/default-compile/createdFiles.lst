@@ -1,0 +1,8 @@
+com/itesm/azul/NuevaPersona.class
+com/itesm/azul/DDBEventProcessor.class
+com/itesm/azul/PersonResponse.class
+com/itesm/azul/PersonRequest.class
+com/itesm/azul/SavePersonHandler.class
+com/itesm/azul/PersonList.class
+com/itesm/azul/ReadPersonHandler.class
+com/itesm/azul/LambdaMethodHandler.class
